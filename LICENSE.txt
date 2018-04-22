@@ -1,5 +1,13 @@
+ The icons used in this app are used are from http://game-icons.net/ and are used under CC BY 3.0 (https://creativecommons.org/licenses/by/3.0/).
+dwarf_face.png,bookshelf,cryo_chamber, cyber_eye, heart_wings, jet_fighter.png, orc_head.png, ring.png, ufo.png and vampire_dracula.png  by Delapouite (http://delapouite.com/)
+daemon_skull.png, evil_hand.png,tentacles_skull and werewolf by Lorc (http://lorcblog.blogspot.de/)
+hooded_figure.png by DarkZaitzev (https://darkzaitzev.deviantart.com/)
+raise_zombie.png by Skoll
+
+The Vector Assets belong to Google DLL and are used under the Appace License 2.0.
  
- Copyright [2018] [Kerstin Baumann]
+
+Copyright 2018 Kerstin Baumann
 
    The code of this application is licensed under the Apache License, Version 2.0 (the "License");
    you may not use this file except in compliance with the License.
@@ -13,20 +21,3 @@
    See the License for the specific language governing permissions and
    limitations under the License.
    
-   Pictures:
-   The following picutures are used under the CC Attribution-ShareAlike 3.0 Unported License(https://creativecommons.org/licenses/by-sa/3.0/deed.en):
-   "The Unholy Worship" by Gwabryel's (Source:http://gwabryel.blogspot.de/2008/05/unholy-worship-from-lovecrafts-text.html)
-   "Spawn of the Stars" by Sofyan Syarief (Source: https://www.artstation.com/artwork/8ordn)
-   "Shub-Niggurath" by Dominique Signoret (The original source, http://signodom.club.fr/, is unfortunately no longer online, you can find the picture still on wikipedia: (https://en.wikipedia.org/wiki/File:Shub-Niggurath.jpg)
-   "Migo" by Khaenna SunTzun (Source: https://commons.wikimedia.org/wiki/File:Migo.jpg)
-   "Shoggoth" by Nottsuo (Source: https://nottsuo.deviantart.com/art/Shoggoth-594261203)
-   "The Madness from the Sea" by Sofyan Syarief (https://gambaryance.deviantart.com/art/The-Madness-from-the-Sea-125187653)
-   
-   The following picture is used under the CC 0 License (https://creativecommons.org/publicdomain/zero/1.0/deed.de)
-   "Old Books" by Jose Antonio alba(Source: https://pixabay.com/de/alte-b%C3%BCcher-buch-b%C3%BCcher-alte-lesen-1237619/ )
-   
-   The pictures have been resized and in some cases been optimized for upload in the internet. No changes have been made to the
-   content of the pictures. It can be that the depiction of the photos varies according to your device and settings.
-   
-   The questions of this quiz are inspired by the "Cthulhu Mythos" by HP Lovecraft. Due to the author's death in 1937, the works used in this app fall into the public domain.
-   The German translation of the poem is taken from "Der Ruf des Cthulhu" ("The Call of Cthulhu") by Andreas Diesel and Frank Festa (https://www.festa-verlag.de/).
