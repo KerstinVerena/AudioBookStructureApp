@@ -6,4 +6,4 @@ This app has been for educational reasons  as part of the Udacity Google Develop
 
 The icons used in this app are mainly from Game-Icons.net (http://game-icons.net/).
 
-The books mentioned in this book are no real books, the authors no real persons (so some names might hold slight referrences to well established works of the respective genre).
+The books mentioned in this app are no real books, the authors no real persons (so some names might hold slight referrences to well established works of the respective genre).
