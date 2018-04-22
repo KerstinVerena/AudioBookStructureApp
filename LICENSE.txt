@@ -4,7 +4,7 @@ daemon_skull.png, evil_hand.png,tentacles_skull and werewolf by Lorc (http://lor
 hooded_figure.png by DarkZaitzev (https://darkzaitzev.deviantart.com/)
 raise_zombie.png by Skoll
 
-The Vector Assets belong to Google DLL and are used under the Appace License 2.0.
+The Vector Assets belong to Google LLC and are used under the Appace License 2.0.
  
 
 Copyright 2018 Kerstin Baumann
