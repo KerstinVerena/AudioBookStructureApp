@@ -1,0 +1,39 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <!-- Changing the primary text color: https://stackoverflow.com/questions/9593133/how-to-change-default-text-color-using-custom-theme -->
+        <item name="android:textColorPrimary">@color/lightText</item>
+    </style>
+
+    <!-- Style used for bold, regular texts. -->
+    <style name="regularBoldText" >
+        <item name = "android:textSize">@dimen/regularTextSize</item>
+        <item name = "android:textStyle">bold</item>
+    </style>
+
+    <!-- More information about customizing a seek bar: https://stackoverflow.com/questions/16516540/seek-bar-increase-height-->
+    <style name="CustomSeekBar" parent="@android:style/Widget.SeekBar">
+        <item name="android:minHeight">@dimen/seekBarHeight</item>
+        <item name="android:maxHeight">@dimen/seekBarHeight</item>
+    </style>
+
+    <style name="Category" >
+        <item name = "android:textSize">@dimen/categoryTextSize</item>
+        <item name = "android:gravity">center_horizontal</item>
+        <item name = "android:padding">@dimen/categoryPadding</item>
+        <item name = "android:textStyle">bold</item>
+    </style>
+
+    <!-- Style used for regular texts. -->
+    <style name="regularText" >
+        <item name = "android:textSize">@dimen/regularTextSize</item>
+        <item name = "android:textStyle">bold</item>
+    </style>
+
+
+</resources>

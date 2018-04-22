@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name = "generalSideMargin">56dp</dimen>
+    <dimen name = "regularTextSize">36sp</dimen>
+    <dimen name = "newSectionHorizontalMargin">120dp</dimen>
+    <dimen name = "zero">0dp</dimen>
+    <dimen name = "seekBarHeight">16dp</dimen>
+    <dimen name = "categoryTextSize">48sp</dimen>
+    <dimen name = "categoryPadding">24dp</dimen>
+    <dimen name = "generalVerticalMargin">56dp</dimen>
+    <dimen name = "pictureBar">112dp</dimen>
+</resources>

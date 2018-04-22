@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Audiobook Structure App</string>
+    <string name="currently_playing">Currently Playing\:</string>
+    <string name="to_library">Library</string>
+    <string name="fantasy">Fantasy</string>
+    <string name="scifi">Science Fiction</string>
+    <string name="horror">Horror</string>
+    <string name="romance">Romance</string>
+    <string name="library">Library</string>
+    <string name="full_library">Full Library</string>
+    <string name="no_books">You have no audio books of this genre.</string>
+    <string name="fantasy_book_1">The Rings of the Lord</string>
+    <string name="fantasy_author_1">LTT Vanmuol</string>
+    <string name="fantasy_book_2">The Orcs and the Trees</string>
+    <string name="fantasy_author_2">Rommagash Skullsplinter</string>
+    <string name="fantasy_book_3">Shattered Gates - Demon Invasion I</string>
+    <string name="fantasy_author_3">Illdur Sakurn</string>
+    <string name="fantasy_book_4">Thorns in the Dark - The Hidden Wars III</string>
+    <string name="fantasy_author_4">Layla Corrine</string>
+    <string name="horror_book_1">The Cry of X\'thaltorughollag</string>
+    <string name="horror_author_1">"K.R. Hatton"</string>
+    <string name="horror_book_2">Zoooombies!</string>
+    <string name="horror_author_2">Kann Ibal</string>
+    <string name="horror_book_3">Bitten by the Vampire Lord</string>
+    <string name="horror_author_3">San Guino</string>
+    <string name="horror_book_4">On the Hunt</string>
+    <string name="horror_author_4">Yura Prej</string>
+    <string name="scifi_book_1">The Eye of the Instructor</string>
+    <string name="scifi_author_1">Watchin Ya</string>
+    <string name="scifi_book_2">The Unborn Generation</string>
+    <string name="scifi_author_2">Ziba Somrin</string>
+    <string name="scifi_book_3">Space Pilot Adventures</string>
+    <string name="scifi_author_3">Anna Nimous</string>
+</resources>
